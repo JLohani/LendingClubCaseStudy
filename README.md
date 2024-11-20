@@ -67,5 +67,5 @@ In this case study, we will use EDA to understand how consumer attributes and lo
 
 
 ## Team
-* [Lekhana Gowda]()
+* [Lekhana Gowda](https://github.com/LekhanaBC)
 * [Jayant Lohani](https://github.com/JLohani)
