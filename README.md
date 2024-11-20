@@ -3,10 +3,11 @@
 ## Table of Contents
 * [Problem Statement](#problem-statement)
 * [Objectives](#objectives)
-* [Data_Cleaning](#data-cleaning)
+* [Data Cleaning](#data-cleaning)
 * [EDA_Analysis](#eda-analysis)
 * [Observations](#observations)
-* [Team](#team)
+* [Technologies Used](#technologies-used)
+* [Contact](#contact)
 
 
 ## Problem Statement
@@ -66,6 +67,16 @@ In this case study, we will use EDA to understand how consumer attributes and lo
 - Renters or those with mortgages may be more vulnerable to default due to other financial obligations.
 
 
-## Team
+## Technologies Used
+- Anaconda - Version 2.6.3
+- Jupyter Notebook - Version 7.2.2
+- pandas - Version 2.2.2
+- numpy - Version 1.26.4
+- matplotlib - Version 3.9.2
+- seaborn - Version 0.13.2
+
+
+## Contact
+Created by:
 * [Lekhana Gowda](https://github.com/LekhanaBC)
 * [Jayant Lohani](https://github.com/JLohani)
