@@ -5,7 +5,6 @@
 * [Objectives](#objectives)
 * [Data Cleaning](#data-cleaning)
 * [Analysis](#analysis)
-* [Observations](#observations)
 * [Technologies Used](#technologies-used)
 * [Contact](#contact)
 
@@ -37,15 +36,6 @@ The primary goal is to analyze the dataset provided by Lending Club to:
 - Loan Terms: 36-month terms have a higher proportion of fully paid loans.
 - Home Ownership: Renters and those with mortgages are more prone to defaults.
 Refer to the report and code for detailed analysis and recommendations.
-
-
-## Observations
-- Higher loan amounts increase default risk.
-- Higher interest rates correlate with higher default rates, especially for larger loans.
-- Lower annual incomes are associated with a higher likelihood of default.
-- Higher DTI ratios suggest financial strain, raising default risk.
-- Lower loan grades (D, E, F, G) are significant indicators of higher default probability.
-- Renters or those with mortgages may be more vulnerable to default due to other financial obligations.
 
 
 ## Technologies Used
